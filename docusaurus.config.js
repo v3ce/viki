@@ -52,9 +52,9 @@ const config = {
         items: [
           {
             type: 'doc',
-            docId: 'intro',
+            docId: 'environment/index',
             position: 'left',
-            label: 'Tutorial',
+            label: '裝機指南',
           },
           { to: '/blog', label: 'Blog', position: 'left' },
           {
