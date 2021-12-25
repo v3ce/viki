@@ -56,7 +56,7 @@ const config = {
             position: 'left',
             label: '裝機指南',
           },
-          { to: '/blog', label: 'Blog', position: 'left' },
+          { to: '/blog', label: '關於我們', position: 'left' },
           {
             href: 'https://github.com/facebook/docusaurus',
             label: 'GitHub',
