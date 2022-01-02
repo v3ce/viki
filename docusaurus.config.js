@@ -56,6 +56,12 @@ const config = {
             position: 'left',
             label: '裝機指南',
           },
+          {
+            type: 'doc',
+            docId: 'pl/index',
+            position: 'left',
+            label: '程式語言',
+          },
           { to: '/blog', label: '關於我們', position: 'left' },
           {
             href: 'https://github.com/v3ce/viki',
