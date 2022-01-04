@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkviki=self.webpackChunkviki||[]).push([[535],{5641:function(e){e.exports=JSON.parse('{"title":"Recent posts","items":[{"title":"Hello World!","permalink":"/viki/blog/hello-world"}]}')}}]);

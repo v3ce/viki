@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkviki=self.webpackChunkviki||[]).push([[465],{4933:function(i){i.exports=JSON.parse('{"/viki/blog/tags/v-3-ce":{"allTagsPath":"/viki/blog/tags","slug":"/viki/blog/tags/v-3-ce","name":"v3ce","count":1,"permalink":"/viki/blog/tags/v-3-ce"}}')}}]);

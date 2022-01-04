@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkviki=self.webpackChunkviki||[]).push([[732],{4092:function(e){e.exports=JSON.parse('{"permalink":"/viki/blog","page":1,"postsPerPage":10,"totalPages":1,"totalCount":1,"previousPage":null,"nextPage":null,"blogDescription":"Blog","blogTitle":"Blog"}')}}]);

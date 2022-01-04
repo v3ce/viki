@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+    <channel>
+        <title>Viki Blog</title>
+        <link>https://v3ce.githu.io/viki/blog</link>
+        <description>Viki Blog</description>
+        <lastBuildDate>Fri, 24 Dec 2021 00:00:00 GMT</lastBuildDate>
+        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+        <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Hello World!]]></title>
+            <link>https://v3ce.githu.io/viki/blog/hello-world</link>
+            <guid>hello-world</guid>
+            <pubDate>Fri, 24 Dec 2021 00:00:00 GMT</pubDate>
+            <description><![CDATA[We're @v3ce, let's code!]]></description>
+            <content:encoded><![CDATA[<p>We&#x27;re <a href="https://github.com/v3ce">@v3ce</a>, let&#x27;s code!</p>]]></content:encoded>
+        </item>
+    </channel>
+</rss>

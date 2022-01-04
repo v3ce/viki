@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://v3ce.githu.io/viki/blog</id>
+    <title>Viki Blog</title>
+    <updated>2021-12-24T00:00:00.000Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <link rel="alternate" href="https://v3ce.githu.io/viki/blog"/>
+    <subtitle>Viki Blog</subtitle>
+    <icon>https://v3ce.githu.io/viki/img/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[Hello World!]]></title>
+        <id>hello-world</id>
+        <link href="https://v3ce.githu.io/viki/blog/hello-world"/>
+        <updated>2021-12-24T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[We're @v3ce, let's code!]]></summary>
+        <content type="html"><![CDATA[<p>We&#x27;re <a href="https://github.com/v3ce">@v3ce</a>, let&#x27;s code!</p>]]></content>
+        <author>
+            <name>Hsin-Hsiang Peng</name>
+            <uri>https://github.com/Hsins</uri>
+        </author>
+        <author>
+            <name>Peng-Yu Chen</name>
+            <uri>https://github.com/walkccc</uri>
+        </author>
+        <author>
+            <name>Yong-Lin Lee</name>
+            <uri>https://github.com/lyl156</uri>
+        </author>
+    </entry>
+</feed>
